@@ -1,0 +1,28 @@
+{
+	"lol": [{
+			"name": "寒冰",
+			"location": "下路",
+			"job": "射手"
+		},
+		{
+			"name": "德玛",
+			"location": "上路",
+			"job": "坦克"
+		},
+		{
+			"name": "寡妇",
+			"location": "野区",
+			"job": "打野"
+		},
+		{
+			"name": "女神",
+			"location": "下路",
+			"job": "辅助"
+		},
+		{
+			"name": "寒冰",
+			"location": "下路",
+			"job": "射手"
+		}
+	]
+}
